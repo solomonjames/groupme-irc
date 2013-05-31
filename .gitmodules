@@ -1,0 +1,3 @@
+[submodule "vendors/groupme"]
+	path = vendors/groupme
+	url = https://github.com/solomonjames/groupme.git
